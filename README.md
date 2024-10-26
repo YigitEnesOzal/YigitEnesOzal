@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning react-redux
 
-- 💬 Ask me about angular,javascript
+- 💬 Ask me about angular,javascript and flutter
 
 - 📫 How to reach me y.enesozal99@gmail.com
 
@@ -31,6 +31,7 @@
 <code><img height="20" alt="figma" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></code>
 <code><img height="20" alt="postman" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></code>
 <code><img height="20" alt="vscode" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></code>
+<code><img height="20" alt="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"></code>
 <code><img height="20" alt="kubernetes" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"></code>
 <code><img height="20" alt="jenkins" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"></code>
 <code><img height="20" alt="grafana" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png"></code>
